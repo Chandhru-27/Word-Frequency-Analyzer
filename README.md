@@ -61,3 +61,6 @@ Sno   Word           Frequency
 ✔ Implement **GUI-based visualization** of word frequency.  
 
 ---
+
+## Author
+Chandhru Loganathan

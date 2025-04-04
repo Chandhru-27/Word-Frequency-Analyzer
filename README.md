@@ -1,9 +1,5 @@
-# Word-Frequency-Analyzer
-This simple C++ File Reader &amp; Word Frequency Analyzer reads a text file, processes its content, and identifies the top 10 most frequent words while filtering common words. It uses file handling, maps, and sorting algorithms for efficient text analysis. 🚀
 
----
-
-# **File Reader & Word Frequency Analyzer**  
+# **Word Frequency Analyzer**  
 
 ## 📌 **Project Overview**  
 This **C++ program** reads a text file (`testfile.txt`), processes its content, and determines the **top 10 most frequently occurring words** (excluding common words). It efficiently handles file reading, text parsing, and word frequency analysis.  
